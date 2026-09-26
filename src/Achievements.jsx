@@ -48,7 +48,7 @@ function AnimatedCard({ card }) {
 
 function Achievements() {
     const leftCards = [
-        { head: "Inter IIT Slam Poetry'24", name: "Harshit Singh", rotate: 5 },
+        { head: "Inter IIT Slam Poetry'24", name: "Award Recipient", rotate: 5 },
         { head: "Miraz Rant Poetry'24", name: "Nilay Arora", rotate: -3 },
         { head: "Hindi Pakhwada Poetry'24", name: "Rishabh Shukla", rotate: 8 },
         { head: "Inter IIT Story Writing'23", name: "Prashant Tiwary", rotate: -5 },
@@ -64,7 +64,7 @@ function Achievements() {
         { head: "Inter IIT Story Writing'23", name: "Prashant Tiwary", rotate: -5 },
         { head: "Hindi Pakhwada Poetry'24", name: "Rishabh Shukla", rotate: 8 },
         { head: "Miraz Rant Poetry'24", name: "Nilay Arora", rotate: -3 },
-        { head: "Inter IIT Slam Poetry'24", name: "Harshit Singh", rotate: 5 },
+        { head: "Inter IIT Slam Poetry'24", name: "Award Recipient", rotate: 5 },
     ]
 
     return (

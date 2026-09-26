@@ -25,7 +25,7 @@ function Cordis() {
       </div>
       <div >
         <div className='flex items-center justify-center flex-col md:flex-row md:gap-6'>
-          <div><Card src={Avatar01} name="Harshit Kumar Singh" genre="Slam Poetry - Story Writing - Drama Writing" /></div>
+          <div><Card src={Avatar01} name="Writing Club Coordinator" genre="Slam Poetry - Story Writing - Drama Writing" /></div>
           <div><Card src={Avatar02} name="Paresh Chourasiya" genre="Story Telling - Story Writing - Word Games" /></div>
         </div>
         <div className='flex items-center justify-center flex-col md:flex-row md:gap-6'>

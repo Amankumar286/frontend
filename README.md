@@ -4,7 +4,7 @@
 
 ## About the Project
 
-**UHL Lekh** is the website of the Writing Club of Indian Institute of Technology, Mandi. I served as the Club Coordinator during the 2024-25 period and created this website to centralize all activities, showcase our works, and simplify event participation.
+**UHL Lekh** is the website of the Writing Club of Indian Institute of Technology, Mandi. This repository contains a customized copy maintained by **Amankumar286**, with club activities, written works, and event participation brought together in one place.
 
 This platform provides an engaging and organized experience for both members and visitors.
 
@@ -38,8 +38,8 @@ The UI has been built to ensure smooth accessibility of the website over mobile,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harshithi5/UhlLekh.git
-cd UhlLekh
+git clone https://github.com/Amankumar286/frontend.git
+cd frontend
 ```
 
 ### 2. Install Dependencies
